@@ -1,6 +1,6 @@
 ### 文档宣传广告
 
-[![logo](assets/img1.png)](http://qrcode.testing-studio.com/f?from=tidevice&url=https://testing-studio.com/)
+[![logo](https://testing-studio.com/img/icon.png)](http://qrcode.testing-studio.com/f?from=tidevice&url=https://testing-studio.com/)
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-[![logo](assets/img1.png)](http://qrcode.testing-studio.com/f?from=tidevice&url=https://testing-studio.com/)
+[![logo](https://testing-studio.com/img/icon.png)](http://qrcode.testing-studio.com/f?from=tidevice&url=https://testing-studio.com/)
 
 ### 今年新需求
 
